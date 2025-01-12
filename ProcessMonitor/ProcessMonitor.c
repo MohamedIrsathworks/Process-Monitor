@@ -6,8 +6,8 @@
 #include <sys/types.h>
 #include <unistd.h>
 
-#define USERNAME "Mohamed"
-#define PASSWORD "@Irsath06"
+#define USERNAME "User"
+#define PASSWORD "Password"
 
 struct ProcessNode {
 int pid;
