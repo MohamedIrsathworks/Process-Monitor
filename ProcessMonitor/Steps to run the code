@@ -1,0 +1,29 @@
+Steps to Run the Program
+
+Save the Code:
+
+Create a file named process_manager.c and paste the provided code into it.
+
+Install GCC (if not installed):
+
+sudo apt update
+sudo apt install gcc
+
+Compile the Program:
+
+gcc process_manager.c -o process_manager
+
+Run the Program:
+
+./process_manager
+
+Authenticate:
+
+Enter the username: Mohamed
+
+Enter the password: @Irsath06
+
+Use the Menu:
+
+Follow the on-screen instructions to create, delete, search, or display processes, or quit the program.
+
